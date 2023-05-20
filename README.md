@@ -195,7 +195,7 @@ Os benefícios dessa atualização são:
 </details>
 
 | \# | Característica | P | E | R | B |
-| :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1  | Servidores (manutenções) | C | A | B | 1 |
 | 2  | Atualização Sistema Operacional | C | M | B | 1 |
 | 3  | Consulta de boletim | C | M | A | 1 |
