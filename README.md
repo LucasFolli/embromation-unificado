@@ -194,32 +194,32 @@ Os benefícios dessa atualização são:
   
 </details>
 
-| Característica | P | E | R | B |
+| \# | Característica | P | E | R | B |
 | :-: | :-: | :-: | :-: | :-: |
-| Servidores (manutenções) | C | A | B | 1 |
-| Atualização Sistema Operacional | C | M | B | 1 |
-| Consulta de boletim | C | M | A | 1 |
-| Provas online | C | A | A | 1 |
-| Matrícula online | C | A | A | 1 |
-| Comunicação com professores | C | B | M | 1 |
-| Acesso a materiais de estudo | C | M | M | 1 |
-| Calendário acadêmico | C | B | M | 1 |
-| Suporte técnico online | C | M | M | 1 |
-| Acesso a Aulas Gravadas | C | B | M | 1 |
-| Biblioteca Virtual | C | A | B | 1 |
-| Reconstrução salas | C | A | M | 1 |
-| Novos Computadores | U | M | M | 2 |
-| Cancelamento de matrícula | I | A | A | 2 |
-| Agendamento de aulas particulares | U | M | A | 2 |
-| Notificações e lembretes | I | M | M | 2 |
-| Avaliação do curso/professor | U | B | M | 2 |
-| Acompanhamento do Processo Acadêmico | I | A | B | 2 |
-| Fórum de discussão | U | A | M | 2 |
-| Agenda Pessoal | I | B | B | 2 |
-| Recursos de aprendizagem interativos | I | A | B | 2 |
-| Agendamento de tutorias | U | M | A | 2 |
-| Portal de vagas e oportunidades | I | A | M | 2 |
-| Personalização do perfil do aluno | U | B | B | 2 |
+| 1  | Servidores (manutenções) | C | A | B | 1 |
+| 2  | Atualização Sistema Operacional | C | M | B | 1 |
+| 3  | Consulta de boletim | C | M | A | 1 |
+| 4  | Provas online | C | A | A | 1 |
+| 5  | Matrícula online | C | A | A | 1 |
+| 6  | Comunicação com professores | C | B | M | 1 |
+| 7  | Acesso a materiais de estudo | C | M | M | 1 |
+| 8  | Calendário acadêmico | C | B | M | 1 |
+| 9  | Suporte técnico online | C | M | M | 1 |
+| 10 | Acesso a Aulas Gravadas | C | B | M | 1 |
+| 11 | Biblioteca Virtual | C | A | B | 1 |
+| 12 | Reconstrução salas | C | A | M | 1 |
+| 13 | Novos Computadores | U | M | M | 2 |
+| 14 | Cancelamento de matrícula | I | A | A | 2 |
+| 15 | Agendamento de aulas particulares | U | M | A | 2 |
+| 16 | Notificações e lembretes | I | M | M | 2 |
+| 17 | Avaliação do curso/professor | U | B | M | 2 |
+| 18 | Acompanhamento do Processo Acadêmico | I | A | B | 2 |
+| 19 | Fórum de discussão | U | A | M | 2 |
+| 20 | Agenda Pessoal | I | B | B | 2 |
+| 21 | Recursos de aprendizagem interativos | I | A | B | 2 |
+| 22 | Agendamento de tutorias | U | M | A | 2 |
+| 23 | Portal de vagas e oportunidades | I | A | M | 2 |
+| 24 | Personalização do perfil do aluno | U | B | B | 2 |
 
 ## Matriz de Rastreabilidade (Necessidades x Características)
 > [Lista De Necessidades](#lista-de-necessidades)
